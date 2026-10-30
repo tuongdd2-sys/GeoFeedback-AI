@@ -1,0 +1,6 @@
+{
+  "name": "GeoFeedback AI – Trợ lý chẩn đoán lỗi sai và cá nhân hóa ôn tập Địa lí THCS",
+  "description": "Nền tảng EdTech ứng dụng Gemini AI chẩn đoán lỗi tư duy, hướng dẫn sửa sai và xây dựng lộ trình ôn tập cá nhân hóa môn Địa lí THCS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
